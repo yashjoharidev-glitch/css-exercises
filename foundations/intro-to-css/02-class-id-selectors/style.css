@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.ptype {
+    background-color: pink;
+    font: Verdana, "Devaju Sans", sans-serif;
+}
+
+#notwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.twotype {
+    font-size: 24px;
+}
+
+#nofour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
