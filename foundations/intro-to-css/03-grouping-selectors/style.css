@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.butone {
+    color: white;
+    background-color: black;
+}
+
+.buttwo {
+    background-color: yellow;
+}
+
+.butone, .buttwo {
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman", "sans-serif";
+}
